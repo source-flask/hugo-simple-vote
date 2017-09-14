@@ -1,2 +1,12 @@
+#intellij
 /.idea
-/public
+
+#mac
+.DS_Store
+
+#hugo
+public/
+
+#npm packages
+npm-debug.log
+/node_modules/*
